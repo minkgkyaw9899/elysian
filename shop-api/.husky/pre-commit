@@ -1,4 +1,0 @@
-# lint fist
-bun lint
-
-git update-index --again
