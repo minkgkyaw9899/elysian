@@ -1,5 +1,18 @@
 # Elysian E-Commerce App
 
+Elysian e commerce application to sell clothes and perfume.
+
+## Tech Stack
+
+- Admin Web App
+
+> Typescript
+> Tanstack Starter
+
+## App List
+
+All application are under development.
+
 - [ ] Admin Web App
 - [ ] Standalone API
 - [ ] Client Web App
@@ -7,7 +20,3 @@
 - [ ] Admin Desktop App
 
 ---
-
-## Tech Stack
-
-NodeJs, Bun, Javascript, Typescript for web, Flutter and Dart for Mobile and ElectronJs for Desktop App
